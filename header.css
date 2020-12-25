@@ -1,0 +1,8 @@
+.form-control .border-primary{
+	box-shadow: 0 0 0 0 #000;
+}
+.breadcrumb-item + .breadcrumb-item::before {content: "|";}
+a,a:hover{
+	text-decoration: none;
+	color: #00A1ED;
+}

@@ -1,0 +1,6 @@
+.breadcrumb-item + .breadcrumb-item::before {
+	content: ">";
+}
+.img_1{cursor: pointer; transition:transform 1s;}
+.img_1:hover{transform:scale(1.1);}
+.w-10{width: 10%;}
